@@ -1,0 +1,54 @@
+Developer Notes - Version 1.0
+============================
+
+Date: May 17, 2023
+Author: Pedro
+
+---
+
+## Features Implemented
+
+- Added user registration functionality
+- Implemented login and authentication system
+- Created user profile page with basic information display
+- Added ability to upload user profile picture
+- Implemented password reset functionality
+- Integrated email verification for new user registration
+- Added pagination to user listing page
+- Implemented search functionality for user listing
+- Created admin dashboard with user management capabilities
+- default pass Malcorp2023* 
+---
+
+## Bugs Fixed
+
+- Resolved issue with incorrect validation error message on login form
+- Fixed broken links on the user profile page
+- Addressed security vulnerability related to user password handling
+- Resolved database query error causing user listing to display incorrect results
+
+
+---
+
+## Pending Tasks
+
+- Improve user interface for better user experience
+- Implement additional user profile fields (e.g., bio, contact information)
+- Enhance password reset process for better security
+- Optimize database queries for improved performance
+- Write unit tests to ensure code quality and functionality
+- Test access control bug fixing 
+
+---
+
+## Next Steps
+
+- Conduct user testing to gather feedback for further improvements
+- Prioritize and implement feature requests based on user feedback
+- Conduct security audit and implement necessary measures
+- Perform code refactoring and optimization for scalability
+- Plan for future enhancements and additional functionality
+
+---
+
+

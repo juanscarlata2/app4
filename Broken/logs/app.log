@@ -1,0 +1,418 @@
+[Wed May 17 14:11:49 2023] 127.0.0.1:35732 Accepted
+[Wed May 17 14:11:49 2023] 127.0.0.1:35732 [200]: GET /
+[Wed May 17 14:11:49 2023] 127.0.0.1:35732 Closing
+[Wed May 17 14:11:49 2023] 127.0.0.1:35734 Accepted
+[Wed May 17 14:11:49 2023] 127.0.0.1:35736 Accepted
+[Wed May 17 14:11:52 2023] 127.0.0.1:35734 [200]: GET /login.php
+[Wed May 17 14:11:52 2023] 127.0.0.1:35734 Closing
+[Wed May 17 14:12:04 2023] 127.0.0.1:35736 [200]: POST /login.php
+[Wed May 17 14:12:04 2023] 127.0.0.1:35736 Closing
+[Wed May 17 14:12:04 2023] 127.0.0.1:35738 Accepted
+[Wed May 17 14:13:18 2023] 127.0.0.1:35738 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed May 17 14:13:18 2023] 127.0.0.1:35738 Closing
+[Wed May 17 14:13:18 2023] 127.0.0.1:35740 Accepted
+[Wed May 17 14:13:18 2023] 127.0.0.1:35740 [200]: POST /login.php
+[Wed May 17 14:13:18 2023] 127.0.0.1:35740 Closing
+[Wed May 17 14:13:18 2023] 127.0.0.1:35742 Accepted
+[Wed May 17 14:13:18 2023] 127.0.0.1:35744 Accepted
+[Wed May 17 14:13:41 2023] 127.0.0.1:35742 [302]: POST /login.php
+[Wed May 17 14:13:41 2023] 127.0.0.1:35742 Closing
+[Wed May 17 14:13:41 2023] 127.0.0.1:35744 [200]: GET /index.php
+[Wed May 17 14:13:41 2023] 127.0.0.1:35744 Closing
+[Wed May 17 14:13:56 2023] 127.0.0.1:35746 Accepted
+[Wed May 17 14:13:58 2023] 127.0.0.1:35746 [404]: GET /settings.php - No such file or directory
+[Wed May 17 14:13:58 2023] 127.0.0.1:35746 Closing
+[Wed May 17 14:13:59 2023] 127.0.0.1:35748 Accepted
+[Wed May 17 14:14:02 2023] 127.0.0.1:35748 [200]: GET /index.php
+[Wed May 17 14:14:02 2023] 127.0.0.1:35748 Closing
+[Wed May 17 14:14:03 2023] 127.0.0.1:35750 Accepted
+[Wed May 17 14:14:04 2023] 127.0.0.1:35750 [404]: GET /users.php - No such file or directory
+[Wed May 17 14:14:04 2023] 127.0.0.1:35750 Closing
+[Wed May 17 14:14:04 2023] 127.0.0.1:35752 Accepted
+[Wed May 17 14:16:13 2023] 127.0.0.1:35754 Accepted
+[Wed May 17 14:16:13 2023] 127.0.0.1:35756 Accepted
+[Wed May 17 14:16:13 2023] 127.0.0.1:35754 [200]: GET /users.php
+[Wed May 17 14:16:13 2023] 127.0.0.1:35754 Closing
+[Wed May 17 14:16:14 2023] 127.0.0.1:35758 Accepted
+[Wed May 17 14:16:21 2023] 127.0.0.1:35756 [200]: GET /index.php
+[Wed May 17 14:16:21 2023] 127.0.0.1:35756 Closing
+[Wed May 17 14:16:26 2023] 127.0.0.1:35758 [200]: GET /settings.php
+[Wed May 17 14:16:26 2023] 127.0.0.1:35758 Closing
+[Wed May 17 14:16:26 2023] 127.0.0.1:35760 Accepted
+[Wed May 17 14:16:31 2023] 127.0.0.1:35760 [200]: GET /index.php
+[Wed May 17 14:16:31 2023] 127.0.0.1:35760 Closing
+[Wed May 17 14:16:31 2023] 127.0.0.1:35762 Accepted
+[Wed May 17 14:16:33 2023] 127.0.0.1:35762 [200]: GET /users.php
+[Wed May 17 14:16:33 2023] 127.0.0.1:35762 Closing
+[Wed May 17 14:16:33 2023] 127.0.0.1:35764 Accepted
+[Wed May 17 14:26:42 2023] 127.0.0.1:35794 Accepted
+[Wed May 17 14:26:42 2023] 127.0.0.1:35796 Accepted
+[Wed May 17 14:26:42 2023] 127.0.0.1:35794 [404]: (null) /users.php - No such file or directory
+[Wed May 17 14:26:42 2023] 127.0.0.1:35794 Closing
+[Wed May 17 14:26:43 2023] 127.0.0.1:35798 Accepted
+[Wed May 17 14:26:48 2023] 127.0.0.1:35796 [404]: (null) /index.php - No such file or directory
+[Wed May 17 14:26:48 2023] 127.0.0.1:35796 Closing
+[Wed May 17 14:26:49 2023] 127.0.0.1:35798 [404]: (null) /settings.php - No such file or directory
+[Wed May 17 14:26:49 2023] 127.0.0.1:35798 Closing
+[Wed May 17 14:26:50 2023] 127.0.0.1:35800 Accepted
+[Wed May 17 14:26:51 2023] 127.0.0.1:35802 Accepted
+[Wed May 17 14:26:53 2023] 127.0.0.1:35800 [404]: (null) /index.php - No such file or directory
+[Wed May 17 14:26:53 2023] 127.0.0.1:35800 Closing
+[Wed May 17 14:27:05 2023] 127.0.0.1:35804 Accepted
+[Wed May 17 14:27:05 2023] 127.0.0.1:35806 Accepted
+[Wed May 17 14:27:05 2023] 127.0.0.1:35804 [200]: GET /index.php
+[Wed May 17 14:27:05 2023] 127.0.0.1:35804 Closing
+[Wed May 17 14:27:05 2023] 127.0.0.1:35808 Accepted
+[Wed May 17 14:27:14 2023] 127.0.0.1:35806 [302]: GET /logout.php
+[Wed May 17 14:27:14 2023] 127.0.0.1:35806 Closing
+[Wed May 17 14:27:14 2023] 127.0.0.1:35808 [200]: GET /login.php
+[Wed May 17 14:27:14 2023] 127.0.0.1:35808 Closing
+        [Wed May 17 14:27:51 2023] 127.0.0.1:35810 Accepted
+[Wed May 17 14:27:51 2023] 127.0.0.1:35812 Accepted
+[Wed May 17 14:27:51 2023] 127.0.0.1:35810 [302]: POST /login.php
+[Wed May 17 14:27:51 2023] 127.0.0.1:35810 Closing
+[Wed May 17 14:27:51 2023] 127.0.0.1:35812 [200]: GET /index.php
+[Wed May 17 14:27:51 2023] 127.0.0.1:35812 Closing
+[Wed May 17 14:27:51 2023] 127.0.0.1:35814 Accepted
+[Wed May 17 14:28:23 2023] 127.0.0.1:35814 [404]: GET /settin.php - No such file or directory
+[Wed May 17 14:28:23 2023] 127.0.0.1:35814 Closing
+[Wed May 17 14:28:23 2023] 127.0.0.1:35816 Accepted
+[Wed May 17 14:28:26 2023] 127.0.0.1:35816 [404]: GET /settin.php - No such file or directory
+[Wed May 17 14:28:26 2023] 127.0.0.1:35816 Closing
+[Wed May 17 14:28:26 2023] 127.0.0.1:35818 Accepted
+[Wed May 17 14:28:34 2023] 127.0.0.1:35818 [404]: GET /setting.php - No such file or directory
+[Wed May 17 14:28:34 2023] 127.0.0.1:35818 Closing
+[Wed May 17 14:28:34 2023] 127.0.0.1:35820 Accepted
+[Wed May 17 14:28:55 2023] 127.0.0.1:35820 [200]: GET /settings.php
+[Wed May 17 14:28:55 2023] 127.0.0.1:35820 Closing
+[Wed May 17 14:28:55 2023] 127.0.0.1:35822 Accepted
+[Wed May 17 14:29:00 2023] 127.0.0.1:35822 [302]: GET /logout.php
+[Wed May 17 14:29:00 2023] 127.0.0.1:35822 Closing
+[Wed May 17 14:29:01 2023] 127.0.0.1:35824 Accepted
+[Wed May 17 14:29:01 2023] 127.0.0.1:35824 [200]: GET /login.php
+[Wed May 17 14:29:01 2023] 127.0.0.1:35824 Closing
+[Wed May 17 14:31:51 2023] 127.0.0.1:35826 Accepted
+[Wed May 17 14:31:51 2023] 127.0.0.1:35828 Accepted
+[Wed May 17 14:31:51 2023] 127.0.0.1:35826 [302]: POST /login.php
+[Wed May 17 14:31:51 2023] 127.0.0.1:35826 Closing
+[Wed May 17 14:31:51 2023] 127.0.0.1:35828 [200]: GET /index.php
+[Wed May 17 14:31:51 2023] 127.0.0.1:35828 Closing
+[Wed May 17 14:31:51 2023] 127.0.0.1:35830 Accepted
+[Wed May 17 14:38:20 2023] 127.0.0.1:35830 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed May 17 14:38:20 2023] 127.0.0.1:35830 Closing
+[Wed May 17 14:38:20 2023] 127.0.0.1:35832 Accepted
+[Wed May 17 14:38:20 2023] 127.0.0.1:35832 [302]: GET /logout.php
+[Wed May 17 14:38:20 2023] 127.0.0.1:35832 Closing
+[Wed May 17 14:38:21 2023] 127.0.0.1:35834 Accepted
+[Wed May 17 14:38:21 2023] 127.0.0.1:35834 [200]: GET /login.php
+[Wed May 17 14:38:21 2023] 127.0.0.1:35834 Closing
+[Wed May 17 14:38:46 2023] 127.0.0.1:35836 Accepted
+[Wed May 17 14:38:46 2023] 127.0.0.1:35838 Accepted
+[Wed May 17 14:38:46 2023] 127.0.0.1:35836 [302]: POST /login.php
+[Wed May 17 14:38:46 2023] 127.0.0.1:35836 Closing
+[Wed May 17 14:38:46 2023] 127.0.0.1:35838 [200]: GET /index.php
+[Wed May 17 14:38:46 2023] 127.0.0.1:35838 Closing
+[Wed May 17 14:38:46 2023] 127.0.0.1:35840 Accepted
+[Wed May 17 14:38:53 2023] 127.0.0.1:35840 [200]: GET /users.php
+[Wed May 17 14:38:53 2023] 127.0.0.1:35840 Closing
+[Wed May 17 14:38:53 2023] 127.0.0.1:35842 Accepted
+[Wed May 17 14:39:04 2023] 127.0.0.1:35842 [302]: GET /logout.php
+[Wed May 17 14:39:04 2023] 127.0.0.1:35842 Closing
+[Wed May 17 14:39:05 2023] 127.0.0.1:35844 Accepted
+[Wed May 17 14:39:05 2023] 127.0.0.1:35844 [200]: GET /login.php
+[Wed May 17 14:39:05 2023] 127.0.0.1:35844 Closing
+[Wed May 17 14:39:25 2023] 127.0.0.1:35846 Accepted
+[Wed May 17 14:39:25 2023] 127.0.0.1:35846 [302]: POST /login.php
+[Wed May 17 14:39:25 2023] 127.0.0.1:35846 Closing
+[Wed May 17 14:39:25 2023] 127.0.0.1:35848 Accepted
+[Wed May 17 14:39:25 2023] 127.0.0.1:35848 [200]: GET /index.php
+[Wed May 17 14:39:25 2023] 127.0.0.1:35848 Closing
+[Wed May 17 14:39:25 2023] 127.0.0.1:35850 Accepted
+[Wed May 17 14:39:51 2023] 127.0.0.1:35850 [404]: GET /user.php - No such file or directory
+[Wed May 17 14:39:51 2023] 127.0.0.1:35850 Closing
+[Wed May 17 14:39:52 2023] 127.0.0.1:35852 Accepted
+[Wed May 17 14:40:06 2023] 127.0.0.1:35852 [200]: GET /users.php
+[Wed May 17 14:40:06 2023] 127.0.0.1:35852 Closing
+[Wed May 17 14:40:06 2023] 127.0.0.1:35854 Accepted
+[Wed May 17 14:40:06 2023] 127.0.0.1:35856 Accepted
+[Wed May 17 14:50:31 2023] 127.0.0.1:35854 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed May 17 14:50:31 2023] 127.0.0.1:35854 Closing
+[Wed May 17 14:50:31 2023] 127.0.0.1:35856 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed May 17 14:50:31 2023] 127.0.0.1:35856 Closing
+[Wed May 17 14:50:31 2023] 127.0.0.1:35858 Accepted
+[Wed May 17 14:50:31 2023] 127.0.0.1:35860 Accepted
+[Wed May 17 14:50:32 2023] 127.0.0.1:35858 [200]: GET /index.php
+[Wed May 17 14:50:32 2023] 127.0.0.1:35858 Closing
+[Wed May 17 14:50:36 2023] 127.0.0.1:35860 [200]: GET /login.php
+[Wed May 17 14:50:36 2023] 127.0.0.1:35860 Closing
+[Wed May 17 14:50:36 2023] 127.0.0.1:35862 Accepted
+[Wed May 17 14:51:15 2023] 127.0.0.1:35862 [302]: POST /login.php
+[Wed May 17 14:51:15 2023] 127.0.0.1:35862 Closing
+[Wed May 17 14:51:15 2023] 127.0.0.1:35864 Accepted
+[Wed May 17 14:51:15 2023] 127.0.0.1:35864 [200]: GET /index.php
+[Wed May 17 14:51:15 2023] 127.0.0.1:35864 Closing
+[Wed May 17 14:53:06 2023] 127.0.0.1:35866 Accepted
+[Wed May 17 14:53:06 2023] 127.0.0.1:35868 Accepted
+[Wed May 17 14:53:06 2023] 127.0.0.1:35866 [200]: GET /index.php
+[Wed May 17 14:53:06 2023] 127.0.0.1:35866 Closing
+[Wed May 17 14:53:07 2023] 127.0.0.1:35870 Accepted
+[Wed May 17 14:53:08 2023] 127.0.0.1:35868 [302]: GET /logout.php
+[Wed May 17 14:53:08 2023] 127.0.0.1:35868 Closing
+[Wed May 17 14:53:08 2023] 127.0.0.1:35870 [200]: GET /login.php
+[Wed May 17 14:53:08 2023] 127.0.0.1:35870 Closing
+[Wed May 17 14:53:15 2023] 127.0.0.1:35872 Accepted
+[Wed May 17 14:53:15 2023] 127.0.0.1:35874 Accepted
+[Wed May 17 14:53:15 2023] 127.0.0.1:35872 [302]: POST /login.php
+[Wed May 17 14:53:15 2023] 127.0.0.1:35872 Closing
+[Wed May 17 14:53:15 2023] 127.0.0.1:35874 [200]: GET /index.php
+[Wed May 17 14:53:15 2023] 127.0.0.1:35874 Closing
+[Wed May 17 14:53:15 2023] 127.0.0.1:35876 Accepted
+[Wed May 17 14:53:31 2023] 127.0.0.1:35878 Accepted
+[Wed May 17 14:53:31 2023] 127.0.0.1:35880 Accepted
+[Wed May 17 14:53:31 2023] 127.0.0.1:35878 [200]: GET /index.php
+[Wed May 17 14:53:31 2023] 127.0.0.1:35878 Closing
+[Wed May 17 14:53:31 2023] 127.0.0.1:35882 Accepted
+[Wed May 17 14:53:32 2023] 127.0.0.1:35880 [302]: GET /logout.php
+[Wed May 17 14:53:32 2023] 127.0.0.1:35880 Closing
+[Wed May 17 14:53:32 2023] 127.0.0.1:35882 [200]: GET /login.php
+[Wed May 17 14:53:32 2023] 127.0.0.1:35882 Closing
+[Wed May 17 14:53:38 2023] 127.0.0.1:35884 Accepted
+[Wed May 17 14:53:38 2023] 127.0.0.1:35886 Accepted
+[Wed May 17 14:53:38 2023] 127.0.0.1:35884 [302]: POST /login.php
+[Wed May 17 14:53:38 2023] 127.0.0.1:35884 Closing
+[Wed May 17 14:53:38 2023] 127.0.0.1:35886 [200]: GET /index.php
+[Wed May 17 14:53:38 2023] 127.0.0.1:35886 Closing
+[Wed May 17 14:53:38 2023] 127.0.0.1:35888 Accepted
+[Wed May 17 14:54:08 2023] 127.0.0.1:35888 [200]: GET /index.php
+[Wed May 17 14:54:08 2023] 127.0.0.1:35888 Closing
+[Wed May 17 14:54:08 2023] 127.0.0.1:35890 Accepted
+[Wed May 17 14:54:21 2023] 127.0.0.1:35890 [302]: GET /logout.php
+[Wed May 17 14:54:21 2023] 127.0.0.1:35890 Closing
+[Wed May 17 14:54:21 2023] 127.0.0.1:35892 Accepted
+[Wed May 17 14:54:21 2023] 127.0.0.1:35892 [200]: GET /login.php
+[Wed May 17 14:54:21 2023] 127.0.0.1:35892 Closing
+[Wed May 17 14:54:36 2023] 127.0.0.1:35894 Accepted
+[Wed May 17 14:54:36 2023] 127.0.0.1:35896 Accepted
+[Wed May 17 14:54:36 2023] 127.0.0.1:35894 [302]: POST /login.php
+[Wed May 17 14:54:36 2023] 127.0.0.1:35894 Closing
+[Wed May 17 14:54:36 2023] 127.0.0.1:35896 [200]: GET /index.php
+[Wed May 17 14:54:36 2023] 127.0.0.1:35896 Closing
+[Wed May 17 14:54:37 2023] 127.0.0.1:35898 Accepted
+[Wed May 17 14:55:51 2023] 127.0.0.1:35898 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed May 17 14:55:51 2023] 127.0.0.1:35898 Closing
+[Wed May 17 14:55:51 2023] 127.0.0.1:35900 Accepted
+[Wed May 17 14:55:51 2023] 127.0.0.1:35900 [200]: GET /index.php
+[Wed May 17 14:55:51 2023] 127.0.0.1:35900 Closing
+[Wed May 17 14:55:51 2023] 127.0.0.1:35902 Accepted
+[Wed May 17 14:55:51 2023] 127.0.0.1:35904 Accepted
+[Wed May 17 14:55:52 2023] 127.0.0.1:35902 [302]: GET /logout.php
+[Wed May 17 14:55:52 2023] 127.0.0.1:35902 Closing
+[Wed May 17 14:55:53 2023] 127.0.0.1:35904 [200]: GET /login.php
+[Wed May 17 14:55:53 2023] 127.0.0.1:35904 Closing
+[Wed May 17 14:55:59 2023] 127.0.0.1:35906 Accepted
+[Wed May 17 14:55:59 2023] 127.0.0.1:35908 Accepted
+[Wed May 17 14:55:59 2023] 127.0.0.1:35906 [302]: POST /login.php
+[Wed May 17 14:55:59 2023] 127.0.0.1:35906 Closing
+[Wed May 17 14:55:59 2023] 127.0.0.1:35908 [200]: GET /index.php
+[Wed May 17 14:55:59 2023] 127.0.0.1:35908 Closing
+[Wed May 17 14:56:00 2023] 127.0.0.1:35910 Accepted
+[Wed May 17 14:56:13 2023] 127.0.0.1:35912 Accepted
+[Wed May 17 14:56:13 2023] 127.0.0.1:35912 [302]: GET /logout.php
+[Wed May 17 14:56:13 2023] 127.0.0.1:35912 Closing
+[Wed May 17 14:56:14 2023] 127.0.0.1:35914 Accepted
+[Wed May 17 14:56:14 2023] 127.0.0.1:35914 [200]: GET /login.php
+[Wed May 17 14:56:14 2023] 127.0.0.1:35914 Closing
+[Wed May 17 14:58:02 2023] 127.0.0.1:35916 Accepted
+[Wed May 17 14:58:02 2023] 127.0.0.1:35916 [302]: POST /login.php
+[Wed May 17 14:58:02 2023] 127.0.0.1:35916 Closing
+[Wed May 17 14:58:02 2023] 127.0.0.1:35918 Accepted
+[Wed May 17 14:58:02 2023] 127.0.0.1:35918 [200]: GET /index.php
+[Wed May 17 14:58:02 2023] 127.0.0.1:35918 Closing
+[Wed May 17 14:58:02 2023] 127.0.0.1:35920 Accepted
+[Wed May 17 14:58:22 2023] 127.0.0.1:35922 Accepted
+[Wed May 17 14:58:22 2023] 127.0.0.1:35924 Accepted
+[Wed May 17 14:58:22 2023] 127.0.0.1:35922 [200]: GET /index.php
+[Wed May 17 14:58:22 2023] 127.0.0.1:35922 Closing
+[Wed May 17 14:58:22 2023] 127.0.0.1:35926 Accepted
+[Wed May 17 14:58:23 2023] 127.0.0.1:35924 [200]: GET /index.php
+[Wed May 17 14:58:23 2023] 127.0.0.1:35924 Closing
+[Wed May 17 14:58:28 2023] 127.0.0.1:35926 [302]: GET /logout.php
+[Wed May 17 14:58:28 2023] 127.0.0.1:35926 Closing
+[Wed May 17 14:58:28 2023] 127.0.0.1:35928 Accepted
+[Wed May 17 14:58:28 2023] 127.0.0.1:35928 [200]: GET /login.php
+[Wed May 17 14:58:28 2023] 127.0.0.1:35928 Closing
+[Wed May 17 14:58:38 2023] 127.0.0.1:35930 Accepted
+[Wed May 17 14:58:38 2023] 127.0.0.1:35932 Accepted
+[Wed May 17 14:58:38 2023] 127.0.0.1:35930 [302]: POST /login.php
+[Wed May 17 14:58:38 2023] 127.0.0.1:35930 Closing
+[Wed May 17 14:58:38 2023] 127.0.0.1:35932 [200]: GET /index.php
+[Wed May 17 14:58:38 2023] 127.0.0.1:35932 Closing
+[Wed May 17 14:58:38 2023] 127.0.0.1:35934 Accepted
+[Wed May 17 14:59:33 2023] 127.0.0.1:35934 [200]: GET /index.php
+[Wed May 17 14:59:33 2023] 127.0.0.1:35934 Closing
+[Wed May 17 14:59:34 2023] 127.0.0.1:35936 Accepted
+[Wed May 17 14:59:47 2023] 127.0.0.1:35936 [200]: GET /users.php
+[Wed May 17 14:59:47 2023] 127.0.0.1:35936 Closing
+[Wed May 17 14:59:48 2023] 127.0.0.1:35938 Accepted
+[Wed May 17 14:59:49 2023] 127.0.0.1:35938 [200]: GET /index.php
+[Wed May 17 14:59:49 2023] 127.0.0.1:35938 Closing
+[Wed May 17 14:59:50 2023] 127.0.0.1:35940 Accepted
+[Wed May 17 14:59:51 2023] 127.0.0.1:35940 [200]: GET /settings.php
+[Wed May 17 14:59:51 2023] 127.0.0.1:35940 Closing
+[Wed May 17 14:59:52 2023] 127.0.0.1:35942 Accepted
+[Wed May 17 14:59:56 2023] 127.0.0.1:35942 [200]: GET /index.php
+[Wed May 17 14:59:56 2023] 127.0.0.1:35942 Closing
+[Wed May 17 14:59:56 2023] 127.0.0.1:35944 Accepted
+[Wed May 17 15:01:46 2023] 127.0.0.1:35944 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed May 17 15:01:46 2023] 127.0.0.1:35944 Closing
+[Wed May 17 15:01:46 2023] 127.0.0.1:35946 Accepted
+[Wed May 17 15:01:46 2023] 127.0.0.1:35946 [200]: GET /users.php
+[Wed May 17 15:01:46 2023] 127.0.0.1:35946 Closing
+[Wed May 17 15:01:47 2023] 127.0.0.1:35948 Accepted
+[Wed May 17 15:01:49 2023] 127.0.0.1:35948 [200]: GET /index.php
+[Wed May 17 15:01:49 2023] 127.0.0.1:35948 Closing
+[Wed May 17 15:01:49 2023] 127.0.0.1:35950 Accepted
+[Wed May 17 15:01:52 2023] 127.0.0.1:35950 [200]: GET /logs/my_notes.txt
+[Wed May 17 15:01:52 2023] 127.0.0.1:35950 Closing
+[Wed May 17 15:01:52 2023] 127.0.0.1:35952 Accepted
+[Wed May 17 15:01:54 2023] 127.0.0.1:35952 [200]: GET /index.php
+[Wed May 17 15:01:54 2023] 127.0.0.1:35952 Closing
+[Wed May 17 15:01:54 2023] 127.0.0.1:35954 Accepted
+[Wed May 17 15:01:55 2023] 127.0.0.1:35954 [200]: GET /login.php
+[Wed May 17 15:01:55 2023] 127.0.0.1:35954 Closing
+[Wed May 17 15:01:55 2023] 127.0.0.1:35956 Accepted
+[Wed May 17 15:01:57 2023] 127.0.0.1:35956 [200]: GET /index.php
+[Wed May 17 15:01:57 2023] 127.0.0.1:35956 Closing
+[Wed May 17 15:01:57 2023] 127.0.0.1:35958 Accepted
+[Wed May 17 15:02:03 2023] 127.0.0.1:35958 [200]: GET /settings.php
+[Wed May 17 15:02:03 2023] 127.0.0.1:35958 Closing
+[Wed May 17 15:02:03 2023] 127.0.0.1:35960 Accepted
+[Wed May 17 15:10:49 2023] 127.0.0.1:35960 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed May 17 15:10:49 2023] 127.0.0.1:35960 Closing
+[Wed May 17 15:10:50 2023] 127.0.0.1:35962 Accepted
+[Wed May 17 15:10:50 2023] 127.0.0.1:35964 Accepted
+[Wed May 17 15:10:50 2023] 127.0.0.1:35962 [200]: GET /settings.php
+[Wed May 17 15:10:50 2023] 127.0.0.1:35962 Closing
+[Wed May 17 15:10:50 2023] 127.0.0.1:35966 Accepted
+[Wed May 17 15:10:53 2023] 127.0.0.1:35964 [200]: GET /index.php
+[Wed May 17 15:10:53 2023] 127.0.0.1:35964 Closing
+[Wed May 17 15:11:07 2023] 127.0.0.1:35966 [200]: GET /users.php
+[Wed May 17 15:11:07 2023] 127.0.0.1:35966 Closing
+[Wed May 17 15:11:07 2023] 127.0.0.1:35968 Accepted
+[Wed May 17 15:11:10 2023] 127.0.0.1:35968 [200]: GET /index.php
+[Wed May 17 15:11:10 2023] 127.0.0.1:35968 Closing
+[Wed May 17 15:11:10 2023] 127.0.0.1:35970 Accepted
+[Wed May 17 15:14:11 2023] 127.0.0.1:35970 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed May 17 15:14:11 2023] 127.0.0.1:35970 Closing
+[Wed May 17 15:14:12 2023] 127.0.0.1:35972 Accepted
+[Wed May 17 15:14:12 2023] 127.0.0.1:35974 Accepted
+[Wed May 17 15:14:12 2023] 127.0.0.1:35972 [200]: GET /users.php?action=deleteUser&userId=2
+[Wed May 17 15:14:12 2023] 127.0.0.1:35972 Closing
+[Wed May 17 15:14:12 2023] 127.0.0.1:35976 Accepted
+[Wed May 17 15:18:21 2023] 127.0.0.1:35978 Accepted
+[Wed May 17 15:18:21 2023] 127.0.0.1:35980 Accepted
+[Wed May 17 15:18:21 2023] 127.0.0.1:35978 [200]: GET /users.php?action=deleteUser&userId=2
+[Wed May 17 15:18:21 2023] 127.0.0.1:35978 Closing
+[Wed May 17 15:18:21 2023] 127.0.0.1:35982 Accepted
+[Wed May 17 15:18:23 2023] 127.0.0.1:35980 [302]: GET /logout.php
+[Wed May 17 15:18:23 2023] 127.0.0.1:35980 Closing
+[Wed May 17 15:18:23 2023] 127.0.0.1:35982 [200]: GET /login.php
+[Wed May 17 15:18:23 2023] 127.0.0.1:35982 Closing
+[Wed May 17 15:18:32 2023] 127.0.0.1:35984 Accepted
+[Wed May 17 15:18:32 2023] 127.0.0.1:35986 Accepted
+[Wed May 17 15:18:32 2023] 127.0.0.1:35984 [302]: GET /users.php?action=deleteUser&userId=2
+[Wed May 17 15:18:32 2023] 127.0.0.1:35984 Closing
+[Wed May 17 15:18:32 2023] 127.0.0.1:35986 [200]: GET /login.php
+[Wed May 17 15:18:32 2023] 127.0.0.1:35986 Closing
+[Wed May 17 15:18:32 2023] 127.0.0.1:35988 Accepted
+[Wed May 17 15:19:22 2023] 127.0.0.1:35988 [302]: POST /login.php
+[Wed May 17 15:19:22 2023] 127.0.0.1:35988 Closing
+[Wed May 17 15:19:22 2023] 127.0.0.1:35990 Accepted
+[Wed May 17 15:19:22 2023] 127.0.0.1:35990 [200]: GET /index.php
+[Wed May 17 15:19:22 2023] 127.0.0.1:35990 Closing
+[Wed May 17 15:19:30 2023] 127.0.0.1:35992 Accepted
+[Wed May 17 15:19:30 2023] 127.0.0.1:35994 Accepted
+[Wed May 17 15:19:30 2023] 127.0.0.1:35992 [200]: GET /users.php?action=deleteUser&userId=2
+[Wed May 17 15:19:30 2023] 127.0.0.1:35992 Closing
+[Wed May 17 15:19:30 2023] 127.0.0.1:35996 Accepted
+[Wed May 17 15:19:59 2023] 127.0.0.1:35994 [200]: GET /users.php?action=deleteUser&userId=2
+[Wed May 17 15:19:59 2023] 127.0.0.1:35994 Closing
+[Wed May 17 15:21:18 2023] 127.0.0.1:35996 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed May 17 15:21:18 2023] 127.0.0.1:35996 Closing
+[Wed May 17 15:28:36 2023] 127.0.0.1:35998 Accepted
+[Wed May 17 15:28:36 2023] 127.0.0.1:35998 [302]: GET /logout.php
+[Wed May 17 15:28:36 2023] 127.0.0.1:35998 Closing
+[Wed May 17 15:28:36 2023] 127.0.0.1:36000 Accepted
+[Wed May 17 15:28:36 2023] 127.0.0.1:36000 [200]: GET /login.php
+[Wed May 17 15:28:36 2023] 127.0.0.1:36000 Closing
+[Wed May 17 15:28:36 2023] 127.0.0.1:36002 Accepted
+[Wed May 17 15:29:12 2023] 127.0.0.1:36002 [302]: POST /login.php
+[Wed May 17 15:29:12 2023] 127.0.0.1:36002 Closing
+[Wed May 17 15:29:13 2023] 127.0.0.1:36004 Accepted
+[Wed May 17 15:29:13 2023] 127.0.0.1:36004 [200]: GET /index.php
+[Wed May 17 15:29:13 2023] 127.0.0.1:36004 Closing
+[Wed May 17 15:29:27 2023] 127.0.0.1:36006 Accepted
+[Wed May 17 15:29:27 2023] 127.0.0.1:36006 [500]: GET /users.php - syntax error, unexpected '}' in /home/juan/haka/Broken/users.php on line 14
+[Wed May 17 15:29:27 2023] 127.0.0.1:36006 Closing
+[Wed May 17 15:29:27 2023] 127.0.0.1:36008 Accepted
+[Wed May 17 15:30:18 2023] 127.0.0.1:36008 [200]: GET /users.php
+[Wed May 17 15:30:18 2023] 127.0.0.1:36008 Closing
+[Wed May 17 15:30:18 2023] 127.0.0.1:36010 Accepted
+[Wed May 17 15:30:24 2023] 127.0.0.1:36010 [200]: GET /users.php?action=deleteUser&userId=2
+[Wed May 17 15:30:24 2023] 127.0.0.1:36010 Closing
+[Wed May 17 15:30:24 2023] 127.0.0.1:36012 Accepted
+[Wed May 17 15:30:28 2023] 127.0.0.1:36012 [200]: GET /users.php?action=deleteUser&userId=2
+[Wed May 17 15:30:28 2023] 127.0.0.1:36012 Closing
+[Wed May 17 15:30:28 2023] 127.0.0.1:36014 Accepted
+[Wed May 17 15:31:01 2023] 127.0.0.1:36016 Accepted
+[Wed May 17 15:31:01 2023] 127.0.0.1:36016 [200]: GET /users.php?action=deleteUser&userId=2
+[Wed May 17 15:31:01 2023] 127.0.0.1:36016 Closing
+[Wed May 17 15:31:01 2023] 127.0.0.1:36018 Accepted
+[Wed May 17 15:31:02 2023] 127.0.0.1:36020 Accepted
+[Wed May 17 15:31:02 2023] 127.0.0.1:36018 [200]: GET /users.php?action=deleteUser&userId=2
+[Wed May 17 15:31:02 2023] 127.0.0.1:36018 Closing
+[Wed May 17 15:31:03 2023] 127.0.0.1:36020 [302]: GET /logout.php
+[Wed May 17 15:31:03 2023] 127.0.0.1:36020 Closing
+[Wed May 17 15:31:04 2023] 127.0.0.1:36022 Accepted
+[Wed May 17 15:31:04 2023] 127.0.0.1:36022 [200]: GET /login.php
+[Wed May 17 15:31:04 2023] 127.0.0.1:36022 Closing
+[Wed May 17 15:31:32 2023] 127.0.0.1:36024 Accepted
+[Wed May 17 15:31:32 2023] 127.0.0.1:36024 [302]: POST /login.php
+[Wed May 17 15:31:32 2023] 127.0.0.1:36024 Closing
+[Wed May 17 15:31:32 2023] 127.0.0.1:36026 Accepted
+[Wed May 17 15:31:32 2023] 127.0.0.1:36026 [200]: GET /index.php
+[Wed May 17 15:31:32 2023] 127.0.0.1:36026 Closing
+[Wed May 17 15:31:33 2023] 127.0.0.1:36028 Accepted
+[Wed May 17 15:31:35 2023] 127.0.0.1:36028 [200]: GET /users.php
+[Wed May 17 15:31:35 2023] 127.0.0.1:36028 Closing
+[Wed May 17 15:31:35 2023] 127.0.0.1:36030 Accepted
+[Wed May 17 15:31:48 2023] 127.0.0.1:36030 [200]: GET /users.php?action=deleteUser&userId=2
+[Wed May 17 15:31:48 2023] 127.0.0.1:36030 Closing
+[Wed May 17 15:31:48 2023] 127.0.0.1:36032 Accepted
+[Wed May 17 15:31:48 2023] 127.0.0.1:36034 Accepted
+[Wed May 17 15:33:06 2023] 127.0.0.1:36032 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed May 17 15:33:06 2023] 127.0.0.1:36032 Closing
+[Wed May 17 15:33:06 2023] 127.0.0.1:36034 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed May 17 15:33:06 2023] 127.0.0.1:36034 Closing
+[Wed May 17 15:33:07 2023] 127.0.0.1:36036 Accepted
+[Wed May 17 15:33:07 2023] 127.0.0.1:36036 [200]: GET /users.php?action=deleteUser&userId=2
+[Wed May 17 15:33:07 2023] 127.0.0.1:36036 Closing
+[Wed May 17 15:33:07 2023] 127.0.0.1:36038 Accepted
+[Wed May 17 15:33:07 2023] 127.0.0.1:36040 Accepted
+[Wed May 17 15:37:40 2023] 127.0.0.1:36038 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed May 17 15:37:40 2023] 127.0.0.1:36038 Closing
+[Wed May 17 15:37:40 2023] 127.0.0.1:36040 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed May 17 15:37:40 2023] 127.0.0.1:36040 Closing
+[Wed May 17 15:37:40 2023] 127.0.0.1:36042 Accepted
+[Wed May 17 15:37:40 2023] 127.0.0.1:36044 Accepted
+[Wed May 17 15:37:40 2023] 127.0.0.1:36042 [404]: GET /logs - No such file or directory
+[Wed May 17 15:37:40 2023] 127.0.0.1:36042 Closing
+[Wed May 17 15:37:41 2023] 127.0.0.1:36046 Accepted
+[Wed May 17 15:38:50 2023] 127.0.0.1:36048 Accepted
+[Wed May 17 15:38:54 2023] 127.0.0.1:36048 [200]: (null) /logs/activity.txt
+[Wed May 17 15:38:54 2023] 127.0.0.1:36048 Closing
+[Wed May 17 15:38:54 2023] 127.0.0.1:36050 Accepted
+[Wed May 17 15:39:32 2023] 127.0.0.1:36050 [200]: (null) /robots.txt
+[Wed May 17 15:39:32 2023] 127.0.0.1:36050 Closing
+[Wed May 17 15:39:32 2023] 127.0.0.1:36052 Accepted
+[Wed May 17 15:39:32 2023] 127.0.0.1:36054 Accepted
